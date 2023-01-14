@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Kavindu-Deshapriya",
+  "repo": "container-ckpciak",
+  "name": "Kavindu-Deshapriya",
+}
